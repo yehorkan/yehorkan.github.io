@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 140" role="img" aria-label="Computer and technology illustration">
+  <rect width="200" height="140" fill="#f0f4f8" rx="8"/>
+  <rect x="40" y="30" width="120" height="75" rx="6" fill="#003366"/>
+  <rect x="48" y="38" width="104" height="58" fill="#1a4d80"/>
+  <rect x="70" y="105" width="60" height="8" rx="2" fill="#5c6b7a"/>
+  <rect x="55" y="113" width="90" height="5" rx="2" fill="#8899aa"/>
+  <circle cx="100" cy="67" r="14" fill="#e87722" opacity="0.9"/>
+  <text x="100" y="130" text-anchor="middle" fill="#5c6b7a" font-family="Segoe UI, sans-serif" font-size="10">Technology</text>
+</svg>
