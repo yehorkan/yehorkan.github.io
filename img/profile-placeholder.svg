@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Profile photo placeholder">
-  <rect width="180" height="180" fill="#eef2f6"/>
-  <circle cx="90" cy="68" r="32" fill="#c5d0dc"/>
-  <ellipse cx="90" cy="148" rx="52" ry="38" fill="#c5d0dc"/>
-  <text x="90" y="172" text-anchor="middle" fill="#8899aa" font-family="Segoe UI, sans-serif" font-size="11">Photo coming soon</text>
-</svg>
